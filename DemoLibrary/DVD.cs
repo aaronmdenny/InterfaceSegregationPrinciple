@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace DemoLibrary
 {
-    public class DVD : ILibraryItem
+    public class DVD : IBorrowableDVD
     {
         public string LibraryId { get; set; }
 
