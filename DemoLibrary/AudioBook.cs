@@ -2,15 +2,13 @@
 
 namespace DemoLibrary
 {
-    public class AudioBook : ILibraryItem
+    public class AudioBook : IBorrowableAudioBook
     {
         public string LibraryId { get; set; }
 
         public string Title { get; set; }
 
         public string Author { get; set; }
-
-        public int Pages { get; set; } = -1;
 
         public int CheckOutDurationInDays { get; set; } = 14;
 
