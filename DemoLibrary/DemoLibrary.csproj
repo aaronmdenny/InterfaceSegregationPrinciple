@@ -45,6 +45,8 @@
     <Compile Include="Book.cs" />
     <Compile Include="DVD.cs" />
     <Compile Include="IBook.cs" />
+    <Compile Include="IBorrowable.cs" />
+    <Compile Include="IBorrowableBook.cs" />
     <Compile Include="ILibraryItem.cs" />
     <Compile Include="ReferenceBook.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
