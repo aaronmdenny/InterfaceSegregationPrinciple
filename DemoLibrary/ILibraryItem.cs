@@ -8,15 +8,11 @@ namespace DemoLibrary
 
         string Title { get; set; }
 
-        //string Author { get; set; }
-
         //DateTime BorrowDate { get; set; }
 
         //string Borrower { get; set; }
 
         //int CheckOutDurationInDays { get; set; }
-
-        //int Pages { get; set; }
 
         //void CheckIn();
 
