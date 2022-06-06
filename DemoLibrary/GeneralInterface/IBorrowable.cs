@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DemoLibrary
+namespace DemoLibrary.GeneralInterface
 {
     public interface IBorrowable
     {

@@ -1,4 +1,4 @@
-﻿namespace DemoLibrary
+﻿namespace DemoLibrary.Book
 {
     public class ReferenceBook : IBook
     {

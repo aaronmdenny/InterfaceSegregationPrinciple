@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DemoLibrary
+namespace DemoLibrary.DVD
 {
     public class DVD : IBorrowableDVD
     {

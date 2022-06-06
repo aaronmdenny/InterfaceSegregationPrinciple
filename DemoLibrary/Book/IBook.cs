@@ -1,4 +1,6 @@
-﻿namespace DemoLibrary
+﻿using DemoLibrary.GeneralInterface;
+
+namespace DemoLibrary.Book
 {
     public interface IBook : ILibraryItem
     {

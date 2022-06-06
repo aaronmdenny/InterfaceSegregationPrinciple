@@ -1,6 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using DemoLibrary.GeneralInterface;
+using System.Collections.Generic;
 
-namespace DemoLibrary
+namespace DemoLibrary.DVD
 {
     public interface IDVD : ILibraryItem
     {

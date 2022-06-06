@@ -1,4 +1,4 @@
-﻿namespace DemoLibrary
+﻿namespace DemoLibrary.GeneralInterface
 {
     public interface ILibraryItem
     {
